@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Yasas Timilsena
 
-![Yasas's GitHub stats](https://github-readme-stats.vercel.app/api?username=timilsenayasas&show_icons=true&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timilsenayasas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ---
 
 ### 🚀 About Me
@@ -45,9 +39,5 @@ I’m an **AI/ML Developer** focused on building intelligent systems that respon
 ---
 
 ### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasas-timilsena-41a7b93a8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasas-timilsena-41a7b93a8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imilsenayasas@gmail.com)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timilsenayasas&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
