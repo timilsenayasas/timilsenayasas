@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Yasas Timilsena
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=timilsenayasas&show_icons=true&theme=radical&hide_border=true&align=center" alt="Yasas's Stats" />
-</p>
+![Yasas's GitHub stats](https://github-readme-stats.vercel.app/api?username=timilsenayasas&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timilsenayasas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 ---
 
@@ -43,8 +45,8 @@ I’m an **AI/ML Developer** focused on building intelligent systems that respon
 ---
 
 ### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasas-timilsena-41a7b93a8/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imilsenayasas@gmail.com)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timilsenayasas&theme=radical&hide_border=true" alt="GitHub Streak" />
