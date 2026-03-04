@@ -5,7 +5,7 @@
 ### 🚀 About Me
 I’m an **AI/ML Developer** focused on building intelligent systems that respond to the world in real-time. I don't just build models; I build the pipelines and dashboards that make them useful.
 
-- 🚦 **Currently Building:** [SignalFlow](https://github.com/timilsenayasas/signalflow) — A real-time market sentiment & fact-checking engine.
+- 🚦 **Currently Building:** [Thought Analyzer](https://github.com/timilsenayasas/thought-analyzer) — A real-time thought analysis and tracking ai.
 - 🔍 **Learning:** Advanced RAG architectures and MLOps scaling.
 - 💼 **Open To:** AI/ML Internship opportunities for 2026.
 
